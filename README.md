@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @tmabbott
 - 👀 I’m interested in Technical Architecture 
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently getting back into iOS development and am learning SwiftUI
 - 📫 How to reach me - email tmabbott AT gmail.com
